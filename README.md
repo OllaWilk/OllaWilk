@@ -9,7 +9,7 @@ In the meantime, I'm completing the Crown of Polish Mountains challenge and hiki
 - 💞️ All my projects are available here: [https://github.com/OllaWilk?tab=repositories](https://github.com/OllaWilk?tab=repositories)
 - 🌱 I'm currently learning NestJs
 - 📬 Write to me: [aleksandra.wilk.letkiewicz@gmail.com](mailto:aleksandra.wilk.letkiewicz@gmail.com)
-- 🚀 I’m currently working on commercial project for SmartQube sp z.o.o: [https://ollawilk.github.io/smartqube/](https://ollawilk.github.io/smartqube/)
+- 🚀 I’m currently working on commercial project for SmartQube sp z.o.o: [https://www.smartqube.com](https://www.smartqube.com)
 
 ## 🚀 Languages and tools:
 
