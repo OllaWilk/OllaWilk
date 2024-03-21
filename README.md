@@ -1,5 +1,3 @@
-![banner zdjęcia](https://github.com/OllaWilk/OllaWilk/blob/main/Aleksandra%20Wilk.png)
-
 👋 I'm a landscape architect and an artist by education, but programming has become my passion, and for the past 2 years, I've been delving into the intricacies of JavaScript. I've completed the web developer course at Kodilla and backend developer course at MegaK.
 In the meantime, I'm completing the Crown of Polish Mountains challenge and hiking in the mountains.  
 
