@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to my GitHub profile!
 
-I'm a landscape architect and an artist by education, but programming has become my true passion. Over the past 2 years, I've been diving deep into JavaScript, enhancing my skills and working on various projects that span both frontend and backend development.
+I am a landscape architect and artist by education and a programmer by passion. For the last two years I have been intensively exploring JavaScript. I completed a web developer course at Kodilla and a backend developer course at MegaK. I gained practical experience as a freelancer, designing and implementing websites for companies in Poland and the USA.
 
 In my journey, I've completed the **Web Developer Plus** course at Kodilla and a **Backend Developer** course at MegaK. Currently, I'm learning **Nest.js**. I regularly participate in **meet.js** meetups where I share knowledge and learn from others.
 
