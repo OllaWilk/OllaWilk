@@ -1,10 +1,10 @@
 # 👋 Hi, Welcome to my GitHub profile!
 
-I am a landscape architect and artist by education and a programmer by passion. For the last two years I have been intensively exploring JavaScript. I completed a web developer course at Kodilla and a backend developer course at MegaK. I gained practical experience as a freelancer, designing and implementing websites for companies in Poland and the USA.
+I am a passionate programmer who has turned my interests into a profession. Through intensive learning and practice over the past two years, particularly in JavaScript, I have gained solid foundations for working on various projects. 
+I completed web developer courses at Kodilla and backend developer courses at MegaK. As a freelancer, I design and implement websites for clients from Poland and USA. My Master of Science degree in Landscape Architecture and experience in diverse project environments have equipped me with effective communication skills and the ability to work on project documentation.
 
-In my journey, I've completed the **Web Developer Plus** course at Kodilla and a **Backend Developer** course at MegaK. Currently, I'm learning **Nest.js**. I regularly participate in **meet.js** meetups where I share knowledge and learn from others.
+In my spare time, I am learning NestJS to further specialize in this technology and participating in Meet.js meetings, where I share knowledge and inspiration with other programmers. Besides programming, I love hiking, especially ascending the Crown of Polish Mountains.
 
-In the meantime, I'm completing the Crown of Polish Mountains challenge and hiking in the mountains.
 
 ## 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/alex-wilk](https://www.linkedin.com/in/alex-wilk/)
