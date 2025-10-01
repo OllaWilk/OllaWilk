@@ -53,5 +53,8 @@ In my spare time, I am learning NestJS to further specialize in this technology 
 - **HeadHunter (team project)** · React + TypeScript (frontend) · Express.js / Nest.js + REST API (backend)
   Repo: [HeadHunterG11-FR](https://github.com/OllaWilk/HeadHunter-FR) · [HeadHunterG11-BE](https://github.com/OllaWilk/Jutrzenka/HeadHunterG11-BE)
 
+- **Monastery website** · Static website in Next.js with responsive layout and accessible design.
+  Repo: [monastyr_nextjs](https://github.com/OllaWilk/monastyr_nextjs)
+
 ---
 
